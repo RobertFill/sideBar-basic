@@ -1,2 +1,2 @@
 # sideBar-basic
-Projeto sideBar 
+Projeto sideBar da RocketSeat
